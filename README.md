@@ -1,3 +1,4 @@
 # Demo-Repository
-This is my first Git Hub repository for learning Git Hub
+This is my first Git Hub repository for learning Git Hub.
+<br>
 Author - Addin
